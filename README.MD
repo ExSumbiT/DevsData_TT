@@ -1,4 +1,4 @@
-## Test task for SheepFish company
+## Test task for DevsData company
 
 Used:
 
