@@ -27,6 +27,5 @@ python manage.py loaddata events.json
 Run django server:
 
 ```
-cd SheepFish
 python manage.py runserver
 ```
