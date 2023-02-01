@@ -20,6 +20,7 @@ Apply migrations and load Events fixtures:
 
 ```
 cd MagicEvents
+python manage.py makemigrations
 python manage.py migrate
 python manage.py loaddata events.json
 ```
